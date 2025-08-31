@@ -18,3 +18,29 @@
     border-radius: 30%;
 }
 
+.profile_info{
+    width: 1000px;
+}
+
+h3{
+    margin-left: 1rem;
+}
+
+.badge-pill{
+    background-color:rgb(226, 232, 240);
+    color: black;
+    font-weight: 200;
+    margin-right: 5px;
+}
+
+.card{
+    height: 400px;
+}
+
+.card img{
+    height: 200px;
+}
+
+.projects{
+    background-color: rgb(248, 250, 252);
+}
