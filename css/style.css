@@ -1,3 +1,5 @@
+
+
 .hero-main{
     color: rgb(203, 213, 225);
     background-color: rgb(15, 23, 42);
@@ -5,5 +7,14 @@
 
 .hero-main p{
     color:rgb(148, 163, 184);
+}
+
+.border-4{
+    border-width:4px !important;
+}
+
+.prof-pic img{
+    height: 400px;
+    border-radius: 30%;
 }
 
